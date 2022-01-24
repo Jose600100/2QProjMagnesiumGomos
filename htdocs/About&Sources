@@ -11,11 +11,11 @@
    	 </div>
       <nav>
         <a href="../index.html" > Homepage</a>
-        <a href="../Files/page1.html"> Starting Out</a>
-				<a href="../Files/page2.html"> Ani-mania</a>
-				<a href="../Files/page3.html"> Losing Steam</a>
-				<a href="../Files/page4.html"> A changed Weeb</a>
-        <a href="../Files/About&Sources.html" id="Cpage"> About and Sources</a>
+        <a href="../htdocs/page1.html"> Starting Out</a>
+				<a href="../htdocs/page2.html"> Ani-mania</a>
+				<a href="../htdocs/page3.html"> Losing Steam</a>
+				<a href="../htdocs/page4.html"> A changed Weeb</a>
+        <a href="../htdocs/About&Sources.html" id="Cpage"> About and Sources</a>
       </nav>
     </header> 
 
