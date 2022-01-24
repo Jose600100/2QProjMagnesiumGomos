@@ -1,0 +1,90 @@
+<html>
+
+<head>
+	<title>Stages of Anime | Starting Out</title>
+	<link rel="shortcut icon" href="../Images/otaku_Favicon.png">
+	<meta charset="UTF-8">
+	<meta name="author" content="Alfonso Gomos">
+	<meta name="keywords" content="HTML, CSS, JavaScript">
+	<meta name="revised" content="6-11-2021">
+	<link href="../css/style.css" rel="stylesheet" type="text/css">
+  
+</head>
+
+<body>
+	<header>
+		<div id="Logo">
+			<img src="../Images/Header_Girl.png" title="Welcome!(つ≧▽≦)つ" alt="Happy Anime Girl" >
+		  <p> The Stages of <br> an Anime Fan </p>
+   	</div>
+
+    <nav>
+      <a href="../index.html" > Homepage</a>
+      <a href="../htdocs/page1.html" id="Cpage"> Starting Out</a>
+			<a href="../htdocs/page2.html"> Ani-mania</a>
+			<a href="../htdocs/page3.html"> Losing Steam</a>
+			<a href="../htdocs/page4.html"> A changed Weeb</a>
+      <a href="../htdocs/About&Sources.html" > About and Sources</a>
+    </nav>
+  </header>
+
+  <div id="SIntro">
+    <hr>
+    <img src="../Images/DBZ1.jpg" id="SIImage" title="Taken from pinterest.com" alt="A screenshot From Dragon Ball Z" >
+    <h1>STARTING OUT</h1>
+    <p>Our story has to start somewhere, as even the tallest trees start out as little seeds. Here, the preconceived notions of Anime, the terms used around the community, as well as some of the more popular genres will be discussed, as we begin our journey through the world of anime. </p>
+    <hr>
+  </div>
+
+  <br><br><br>
+
+  <section class="Page1">
+    <h1>Introduction to Anime</h1>
+    <hr>
+    <p><i>WHAT IS ANIME?</i> Anime is used to refer to Japanese animated TV shows or movies. It can also be used to refer to the specific art style that Anime is usually done in. The Anime art style is very distinct, though it differs slightly from genre to genre. Usually though, great emphasis is placed on an anime character's eyes, especially when comparing it to a character's nose.</p>
+    <br>
+    <p> Before we go any further, there are a few words and phrases that you need to know to be able to understand better the world of anime.</p>
+    <img src="../Images/Akashic1.jpg" id="SImageR" title="Taken from Quora.com" alt="A screenshot from Akashic Records" >
+    <h2>Essential Terms to Remember:</h2>
+    <ul>
+      <li><b>Season</b> - Refers to a group of episodes from the same series that were released around the same time. Usually, seasons are either 12 or 24 episodes long, with there being an extra episode from time to time.</li>
+      <li><b>Opening (op)</b> - Refers to the opening of a certain anime season. It is usually 1min and 30 seconds in length, and the background song has a full version released alongside or after the anime airs. The song is usually in japanese, though there are cases of it being in english, or any other language depending on the occasion. It can also change depending on localization or distribution.</li>
+      <li><b>Ending (ed)</b> - Refers to the ending of a certain anime season. Almost always 1 min and 30 seconds long, it is usually much calmer than the opening.</li>
+      <li><b>OVA</b> - stands for Original Video Animation, it is usually a standalone episode thats not part of any season. It is usually made as a bonus episode added to blu-ray or DVD releases.</li>
+      <li><b>Subbed</b> - Refers to a version of anime that has subtitles over the animated work. Prefered by most anime veterans over dubbed.</li>
+      <li><b>Dubbed</b> - Refers to a version of anime where the original work has been voiced over by non-japanese voice actors. This is more popular among newer/more casual anime fans, and among those who can't/dislike reading subtitles. There is a belief that Dubbed is inferior to Subbed, but it is really just up to preference. </li>
+      <li><b>Weeaboo</b> - Refers to non-japanese fans of Anime, and is sometimes shortened to "weeb". Some people think of it as negative or derogatory, but it is usually what we call fellow anime fans.</li>
+      <li><b>Otaku</b> - Usually used as a substitute for Weeb, although it is different to it. Otakus are people who like a certain interest or hobby so much (in this case, anime) that they dedicate most of their time on it, becoming a shut-in. Usually only reserved for Japanese people.</li>
+      <li><b>Waifu</b> - Derived from the word "wife". In simple terms, a waifu is your favorite (usually) female chracter in a show, It could also refer to someone that you would want to be in a romantic relationship with if they were real, though this definition is hardly taken seriously by majority of the community.</li>
+      <li><b>Husbando</b> - From "husband", it is the (usually) male counterpart to waifu.</li>
+    </ul>
+
+    <p>Now that the terms have been discussed, let us talk about The Early Anime Life (you can always come back if theres something you don't understand!)</p>
+    <br><br>
+    <h1>Early Anime Life</h1>
+    <hr>
+    <h2>How it began</h2>
+    <p>Even before watching your first anime, you have probably already seen or at least heard of the term. Along with that, you might have also heard about how "Anime is evil" or other negative opinions about the genre, though it has mostly died down in recent years. Most likely though, you have seen at least 1 anime before, maybe without you even knowing it. Universally acclaimed works like many <i>Ghibli</i> films can be enjoyed by all without being labelled as "Anime". </p>
+    <p>These anime are usually seen as something beyond anime entirely, and in my opinion, don't count as your first anime. Usually, casual viewers won't be able to tell the difference between it and cartoons, except for the different art style. I think that your first anime should be the first anime that you watch knowing that it is different from western cartoons.</p>
+    <p>So where do you find your first anime? this is where <i>gateway anime</i> and <i>patient zero</i> comes in.</p>
+    <h2> Patient Zero and Gateway Anime </h2>
+    <img src="../Images/SAO1.jpg" id="SImageR" title="Taken from twitter.com" alt="A screenshot From SAO" >
+    <p><b>Patient Zeros</b> can come in many forms. Maybe you saw this weird show on the TV one day. Maybe you were recommended a video with a scene that interested you. Maybe your friends keep talking about this specific show and you decide to check it out to see what the fuss is all about. Whatever the case, all these patient zeroes usually lead to one type of anime, <b>Gateway Anime</b>.</p>
+    <p><b>Gateway Anime</b> are anime series that have achieved notable popularity. They are well loved series, and don't require as much knowledge of the community, so most anime fans would recommend fans to new fans. </p>
+    <p>Shows like <i>Naruto</i>, <i>Pokemon</i>, <i>Dragon Ball</i>, <i>One Piece</i>, <i>Full Metal Alchemist</i>, <i>My Hero Acadamia</i>, <i>Demon Slayer</i>, <i>SAO</i>, and many other popular shows with a large following can be considered as Gateway Anime, and can provide newer players with a sample size of well written, shows from different genres.</p>
+    <p>Speaking of genres, these are some of the more popular genres that anime has to offer to newer fans:</p>
+    <ul>
+      <li><b>Action</b> - Fast paced anime full of well, action!</li>
+      <li><b>Slice of life</b> - For those who want a nice calm and wholesome anime that makes you feel good inside.</li>
+      <li><b>Shounen</b> - Aimed for younger boys under 15.</li>
+      <li><b>Shoujo</b> - Aimed for younger girls under 15.</li>
+      <li><b>Romance</b> - For those who want to see more love.</li>
+      <li><b>Mecha</b> - Giant robots fighting either aliens or other giant robots.</li>
+      <li><b>Isekai</b> - Shows with reincarnation/transportation to an alternate world. It has skyrocketed in popularity in recent years.</li>
+      <li><b>Drama</b> - This is the genre you choose if you want to cry.</li>
+    </ul>
+    <p>After watching a few gateway anime, fans will start finding the genre they like, and start looking for more anime in that genre. Of course, not everyone does this, as others stay casual anime fans for their entire lifes. But for those who decide to press on, they will find a whole new world waiting for them.</p>
+    <p>And so begins their <a href="/htdocs/page2.html">Ani-mania</a> phase. </p>
+  </section>
+</body>
+</html>
