@@ -1,0 +1,23 @@
+<html>
+<head>
+  <link href="../css/style.css" rel="stylesheet" type="text/css">
+  <title>WIP</title>
+</head>
+<body>
+  <header>
+     <div id="Logo">
+      <img src="../Images/Header_Girl.png" title="Welcome!(つ≧▽≦)つ" alt="Happy Anime Girl" >
+				<p> The Stages of <br> an Anime Fan </p>
+   	 </div>
+      <nav>
+        <a href="../index.html" > Homepage</a>
+        <a href="../htdocs/page1.html"> Starting Out</a>
+				<a href="../htdocs/page2.html"> Ani-mania</a>
+				<a href="../htdocs/page3.html"> Losing Steam</a>
+				<a href="../htdocs/page4.html" id="Cpage"> A changed Weeb</a>
+        <a href="../Fhtdocs/About&Sources.html" > About and Sources</a>
+      </nav>
+    <header> 
+  nothing yet...
+</body>
+</html>
