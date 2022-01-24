@@ -1,0 +1,41 @@
+<html>
+<head>
+  <link href="../css/style.css" rel="stylesheet" type="text/css">
+  <title>WIP</title>
+</head>
+<body>
+  <header>
+     <div id="Logo">
+      <img src="../Images/Header_Girl.png" title="Welcome!(つ≧▽≦)つ" alt="Happy Anime Girl" >
+				<p> The Stages of <br> an Anime Fan </p>
+   	 </div>
+      <nav>
+        <a href="../index.html" > Homepage</a>
+        <a href="../Files/page1.html"> Starting Out</a>
+				<a href="../Files/page2.html"> Ani-mania</a>
+				<a href="../Files/page3.html"> Losing Steam</a>
+				<a href="../Files/page4.html"> A changed Weeb</a>
+        <a href="../Files/About&Sources.html" id="Cpage"> About and Sources</a>
+      </nav>
+    </header> 
+
+    <section class="Sources">
+      <h1>Image Sources:<h1>
+        <ul>
+          <li><a href="https://www.instagram.com/ikrammoumen13/" > Header_Girl1</a>via <a href="https://www.pinterest.ph/" > Pinterest</a></li>
+          <li><a href="https://www.pinterest.ph/pin/548454060853026081/" > Pokemon1</a></li>
+          <li><a href="https://weheartit.com/entry/148829888" > DBZ1</a></li>
+          <li><a href="https://www.pinterest.ph/pin/329044316535553542/" > Haruhi1</a></li>
+          <li><a href="https://www.pinterest.ph/pin/615304367832568101/" > Charlotte1</a></li>
+          <li><a href="https://youtu.be/9c4ozWgw3Ns?t=51" > Fate1</a></li>
+          <li><a href="https://www.quora.com/Is-there-any-anime-which-can-really-motivate-me-to-study" > Akashic1</a></li>
+          <li><a href="https://twitter.com/megalomaniac_v/status/1160724393816969216" > SAO1</a></li>
+          <li>(Favicon)Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></li>
+        </ul>
+      <h1>Multimedia Sources:<h1>
+        <ul>
+          <li><a href="https://www.youtube.com/channel/UCBRmwsBDr6EDin0O5PQNy0Q" > Index-KhorAnimeVideo1</a></li>
+        </ul>  
+    </section>
+</body>
+</html>
