@@ -4,7 +4,7 @@
 body {
   background-color: #FFF3B0;
 }
-
+/*My Transform is on my NavBar TYVM. I didnt want to make them too prevalent as I felt that they would clash with the simple and clean asthetic of my site.*/
 header {
   z-index:10;
 	display: flex;
@@ -51,7 +51,54 @@ nav a {
 
 #Cpage {
   text-decoration: underline !important;
+  transform: scale(1.15);
 }
+/*Social Media Sprites(thank you Skye!)*/
+ #twitter:link {
+	background: url('../Images/Socmed_Sprites.png') no-repeat -45px -36px;
+	width: 61px;
+	height: 61px;
+  z-index: 15;
+}
+
+#twitter:hover {
+	background: url('../Images/Socmed_Sprites.png') no-repeat -46px -104px;
+	width: 60px;
+	height: 60px;
+  z-index: 15;
+  transform: scale(1.2);
+}
+
+#youtube:link {
+	background: url('../Images/Socmed_Sprites.png') no-repeat -117px -36px;
+	width: 61px;
+	height: 61px;
+  z-index: 15;  
+}
+
+#youtube:hover {
+	background: url('../Images/Socmed_Sprites.png') no-repeat -117px -104px;
+	width: 60px;
+	height: 60px;
+  z-index: 15;
+  transform: scale(1.2);
+}
+
+#insta:link {
+	background: url('../Images/Socmed_Sprites.png') no-repeat -187px -36px;
+	width: 61px;
+	height: 61px;
+  z-index: 15;
+}
+
+#insta:hover {
+	background: url('../Images/Socmed_Sprites.png') no-repeat -187px -103px;
+	width: 61px;
+	height: 61px;
+  z-index: 15;
+  transform: scale(1.2);
+}
+
 /*Homepage*/
 .Homepage a{
   font-family: 'Roboto Slab', serif;
@@ -185,12 +232,216 @@ margin-top: 110px;
   margin: 10px;
   float: Right;
 }
-
-.Sources {
+/*Ani-mania*/
+#AIImage {
+  margin-bottom: 0px;
   margin-top: 110px;
+  height: 300px;
+  width: auto;
+  float: left;
+  z-index: 2;
+  margin-right: 10px;
+}
+
+#AIntro h1 {
+  margin-top: 110px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 45px;
+  text-align: justify;
+}
+
+#AIntro p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 26px;
+  text-align: justify;
+}
+
+.Page2 h1 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 40px;
+  text-decoration: bold;
+}
+
+.Page2 p {
+  font-size: 20px;
+  font-family: 'Roboto Slab', serif;
+  text-align: justify;
+}
+
+.Page2 h2 {
+  font-size: 25px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.Page2 ul {
+  font-size: 18px;
+  font-family: 'Roboto Slab', serif;
+  text-align: justify;
+}
+
+#AImageR {
+  Height: 250px;
+  width: auto;
+  margin: 10px;
+  float: Right;
+}
+
+#ACenter p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 22px;
+  margin-right: 30px;
+  text-align: center;
+  text-decoration: bold;
+}
+
+/*losing steam*/
+#LIImage {
+  margin-bottom: 0px;
+  margin-top: 110px;
+  height: 300px;
+  width: auto;
+  float: left;
+  z-index: 2;
+  margin-right: 10px;
+}
+
+#LIntro h1 {
+  margin-top: 110px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 45px;
+  text-align: justify;
+}
+
+#LIntro p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 26px;
+  text-align: justify;
+}
+
+.Page3 h1 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 40px;
+  text-decoration: bold;
+}
+
+.Page3 p {
+  font-size: 20px;
+  font-family: 'Roboto Slab', serif;
+  text-align: justify;
+}
+
+.Page3 h2 {
+  font-size: 25px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.Page3 ul {
+  font-size: 18px;
+  font-family: 'Roboto Slab', serif;
+  text-align: justify;
+}
+
+#LImageR {
+  Height: 250px;
+  width: auto;
+  margin: 10px;
+  float: Right;
+}
+/*A changed weeb*/
+#WIImage {
+  margin-bottom: 0px;
+  margin-top: 110px;
+  height: 300px;
+  width: auto;
+  float: left;
+  z-index: 2;
+  margin-right: 10px;
+}
+
+#WIntro h1 {
+  margin-top: 110px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 45px;
+  text-align: justify;
+}
+
+#WIntro p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 26px;
+  text-align: justify;
+}
+
+.Page4 h1 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 40px;
+  text-decoration: bold;
+}
+
+.Page4 p {
+  font-size: 20px;
+  font-family: 'Roboto Slab', serif;
+  text-align: justify;
+}
+
+.Page4 h2 {
+  font-size: 25px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.Page4 ul {
+  font-size: 18px;
+  font-family: 'Roboto Slab', serif;
+  text-align: justify;
+}
+
+#WImageR {
+  Height: 250px;
+  width: auto;
+  margin: 10px;
+  float: Right;
+}
+
+#WCenter p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 22px;
+  margin-right: 30px;
+  text-align: center;
+  text-decoration: bold;
+}
+/*sources*/
+.Sources {
   font-family: 'Roboto Slab', serif;
 }
 
 .Sources ul {
   font-size: 20px;
+}
+
+.Sources h1 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 45px;
+  text-align: justify;
+}
+
+#SourceIntro h1 {
+  margin-top: 110px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 45px;
+  text-align: justify;
+}
+
+#SourceIntro p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 26px;
+  text-align: justify;
+}
+
+#SourceIImage {
+  margin-bottom: 0px;
+  margin-top: 110px;
+  height: 300px;
+  width: auto;
+  float: left;
+  z-index: 2;
+  margin-right: 10px;
 }
